@@ -23,6 +23,7 @@ advanced layout structure.
 A project combining Flexbox, Grid, and media 
 queries to test everything I've learned so far.
 
+6. And other small projects
 These are beginner-level projects
 meant to track my growth. More advanced
 work will be added as I continue learning.
